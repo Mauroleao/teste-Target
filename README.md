@@ -1,7 +1,3 @@
-# Exercícios de Programação em Python
-
-Este repositório contém soluções para uma série de exercícios de programação. Cada exercício aborda um problema específico e é resolvido utilizando a linguagem Python.
-
 ## Índice
 
 1. [Cálculo da Soma](#cálculo-da-soma)
@@ -17,7 +13,7 @@ Este repositório contém soluções para uma série de exercícios de programa�
 **Descrição**  
 Dado o trecho de código abaixo:
 
-```python
+python
 int INDICE = 13, SOMA = 0, K = 0;
 
 while K < INDICE do {
